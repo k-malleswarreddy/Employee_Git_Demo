@@ -8,6 +8,7 @@ public class EmployeeManagementApplication {
 
 	public static void main(String[] args) {
 		System.out.println("First line in STS after git");
+		System.out.println("second");
 		SpringApplication.run(EmployeeManagementApplication.class, args);
 	}
 
